@@ -60,5 +60,7 @@ public class AddPlace {
 	public void setTypes(List<String> types) {
 		this.types = types;
 	}
+	public void extra()
+	{}
 
 }
