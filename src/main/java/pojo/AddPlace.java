@@ -62,6 +62,6 @@ public class AddPlace {
 	}
 	public void extraFromUserToMain()
 	{
-		
+		Extra;
 	}
 }
