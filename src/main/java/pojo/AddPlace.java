@@ -61,8 +61,7 @@ public class AddPlace {
 		this.types = types;
 	}
 
-
-	public void extra(int a,int b, int c, int e)
+	public void extra(int a)
 
 
 	{
