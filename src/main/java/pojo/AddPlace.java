@@ -61,10 +61,4 @@ public class AddPlace {
 		this.types = types;
 	}
 
-	public void extra(int a)
-
-
-	{
-		//SOS
-	}
 }
