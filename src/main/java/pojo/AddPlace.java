@@ -60,8 +60,8 @@ public class AddPlace {
 	public void setTypes(List<String> types) {
 		this.types = types;
 	}
-	public void extra()
+	public void extra(int a,int b)
 	{
-		
+		//SOS
 	}
 }
